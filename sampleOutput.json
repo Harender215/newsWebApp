@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matt Meyer, Mike Hayes, Maureen Chowdhury",
+            "title": "Over 150 killed in Seoul Halloween crowd surge: LIve updates - CNN",
+            "description": "Over 150 people were killed and dozens more hurt in an apparent crowd surge during packed Halloween festivities in Seoul, according to fire authorities. Follow live updates here.",
+            "url": "https://www.cnn.com/asia/live-news/seoul-south-korea-halloween-10-30-22/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221030041925-08-seoul-stampede-103022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-30T16:35:00Z",
+            "content": "I\r\nf youre in a crowd and people are close enough to bump against you, it could be getting too crowded.\r\nThats according to G. Keith Still, a visiting professor of crowd science at the University of … [+1998 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "At least 40 killed in India bridge collapse, state minister says - Reuters India",
+            "description": "At least 60 people were killed when a pedestrian bridge over a river in the western Indian state of Gujarat collapsed, plunging hundreds of people into the water, officials said.",
+            "url": "https://www.reuters.com/world/india/suspension-bridge-collapses-india-hundreds-fall-river-officials-2022-10-30/",
+            "urlToImage": "https://www.reuters.com/resizer/vmKL7AdXyUEbqTBQwbniS9btOZQ=/1113x582/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZHCVDIQIMNN35EYQZ7WYWWNVQE.jpg",
+            "publishedAt": "2022-10-30T16:25:00Z",
+            "content": "AHMEDABAD, India, Oct 30 (Reuters) - At least 60 people were killed when a pedestrian bridge over a river in the western Indian state of Gujarat collapsed, plunging hundreds of people into the water,… [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Murtuza Merchant",
+            "title": "Dogecoin Pulls Ahead Of Cardano As 8th Largest Cryptocurrency, Charles Hoskinson Makes This Prediction - - Benzinga",
+            "description": "With a meteoric rise of over 115%, amid Tesla Inc (NASDAQ: TSLA) chief Elon Musk’s acquisition of social networking giant Twitter, popular memecoin Dogecoin (CRYPTO: DOGE) has replaced",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/22/10/29471681/dogecoin-pulls-ahead-of-cardano-as-8th-largest-cryptocurrency-charles-hoskinson-makes-this",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/10/30/dogecoin20.jpg?width=1200&height=800&fit=crop",
+            "publishedAt": "2022-10-30T15:42:11Z",
+            "content": "With a meteoric rise of over 115%, amid Tesla Inc TSLA chief Elon Musks acquisition of social networking giant Twitter, popular memecoin DogecoinDOGE/USD has replaced Cardano ADA/USD to become the ei… [+1619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InStyle"
+            },
+            "author": "https://www.facebook.com/InStyle",
+            "title": "Kim Kardashian Is Unrecognizable as X-Men's Mystique for Halloween - InStyle",
+            "description": "Someone call Marvel, stat.",
+            "url": "https://www.instyle.com/kim-kardashian-x-men-mystique-halloween-costume-6823398",
+            "urlToImage": "https://www.instyle.com/thmb/oKNvGWakpvdZuXAr77eyWaM7p2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1436902102-a0b48b03757d4cb9b442d300255db3fd.jpg",
+            "publishedAt": "2022-10-30T15:05:42Z",
+            "content": "Every Halloween, Kim Kardashian always goes all out with her costume from Carole Baskin to a sexy \"cowbot\" but this year, she one-upped herself, with fans declaring her latest getup as their favorite… [+1354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "Broncos and Jaguars play an ugly first half in London - NBC Sports",
+            "description": "The Broncos and Jaguars are not doing a great job of helping the NFL increase its overseas fan base.Today’s game in London has been ugly throughout the first half, with the Jaguars taking a 10-7 lead in a game full of penalties and mistakes.Broncos quarterbac…",
+            "url": "https://profootballtalk.nbcsports.com/2022/10/30/broncos-and-jaguars-play-an-ugly-first-half-in-london/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/10/GettyImages-1437702378-e1667141039839.jpg",
+            "publishedAt": "2022-10-30T15:01:00Z",
+            "content": "The Broncos and Jaguars are not doing a great job of helping the NFL increase its overseas fan base.\r\nTodays game in London has been ugly throughout the first half, with the Jaguars taking a 10-7 lea… [+654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ashley Capoot",
+            "title": "Members of Congress express support for Paul Pelosi following violent attack - CNBC",
+            "description": "Members of Congress expressed support for House Speaker Nancy Pelosi's husband after he was violently attacked by an intruder with a hammer on Friday.",
+            "url": "https://www.cnbc.com/2022/10/30/members-of-congress-express-support-for-paul-pelosi-following-violent-attack.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107010301-1643832060204-pelosi.jpg?v=1667141886&w=1920&h=1080",
+            "publishedAt": "2022-10-30T14:58:06Z",
+            "content": "Members of Congress continued to express support Sunday for House Speaker Nancy Pelosi's husband, Paul Pelosi, after he was violently attacked by an intruder with a hammer on Friday.\r\nThe 82-year-old… [+2073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "Barack Obama shoots down heckler as he discusses Paul Pelosi attack - New York Post ",
+            "description": "Former President Obama confronted a heckler who interrupted him while he was discussing the attack on Paul Pelosi at a campaign rally in Detroit Saturday.",
+            "url": "https://nypost.com/2022/10/30/obama-shoots-down-heckler-as-he-discusses-paul-pelosi-attack/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/10/obama-michigan-comp.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-10-30T14:52:00Z",
+            "content": "Former President Obama confronted a heckler who interrupted him while he was discussing the attack on Paul Pelosi at a campaign rally in Detroit Saturday ahead of the midterm elections.\r\nObama, 61, w… [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Students defy Iran protest ultimatum, unrest enters more dangerous phase - Reuters",
+            "description": "Weeks of protest in Iran entered a more violent phase on Sunday as students defied an ultimatum by the Revolutionary Guards and were met with tear gas, beatings and gunfire from riot police and militia, social media videos showed.",
+            "url": "https://www.reuters.com/world/middle-east/iranians-appear-defy-warning-powerful-guards-with-more-protests-2022-10-30/",
+            "urlToImage": "https://www.reuters.com/resizer/PsNyyBKAeyQ7ckmy5VDqReSq3AE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z5SRDM63IBJNNNUO4RCIVTHEZ4.jpg",
+            "publishedAt": "2022-10-30T14:00:00Z",
+            "content": "DUBAI, Oct 30 (Reuters) - Weeks of protest in Iran entered a more violent phase on Sunday as students defied an ultimatum by the Revolutionary Guards and were met with tear gas, beatings and gunfire … [+5217 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Michigan State players seen roughing up Michigan's Ja’Den McBurrows; Jim Harbaugh calls it assault - Fox News",
+            "description": "Michigan State players appeared to beat up a Michigan player following the Wolverines' win over the Spartans 29-7. Jim Harbaugh called it \"assault.\"",
+            "url": "https://www.foxnews.com/sports/michigan-state-players-seen-roughing-up-michigans-jaden-mcburrows-jim-harbaugh-calls-assault",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/Paul-Bunyan-Trophy.jpg",
+            "publishedAt": "2022-10-30T13:59:19Z",
+            "content": "Michigan and Michigan States long-standing rivalry boiled over Saturday night following the Wolverines 29-7 victory at The Big House and it got ugly fast.\r\nSpartans players appeared to rough up Wolve… [+3217 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Sam Baker",
+            "title": "Supreme Court expected to toss affirmative action policies at Harvard, UNC - Axios",
+            "description": "The campaign to end the practice has been long and well-funded.",
+            "url": "https://www.axios.com/2022/10/30/affirmative-action-supreme-court-harvard-unc",
+            "urlToImage": "https://images.axios.com/f8_nMrwOVViyBLiHE2B833EqjT0=/0x0:1920x1080/1366x768/2022/10/30/1667098143715.jpg",
+            "publishedAt": "2022-10-30T12:26:40Z",
+            "content": "The end of affirmative action, at least on college campuses, is almost certainly near.\r\nThe big picture: The Supreme Court said in 2003 that colleges and universities could consider race as a factor … [+3909 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "NFL DFS Picks: 4 HOUR Live Before Lock | Week 8 Daily Fantasy Football DraftKings, FanDuel - Stokastic DFS - Daily Fantasy Sports Advice",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIguXll5OiJo",
+            "urlToImage": null,
+            "publishedAt": "2022-10-30T12:26:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Lebanon’s President Michel Aoun leaves office amid crisis - Al Jazeera English",
+            "description": "President Michel Aoun leaves office a day earlier than his mandate ends as parliament fails to agree on his successor.",
+            "url": "https://www.aljazeera.com/news/2022/10/30/president-michael-aoun-leaves-office-as-lebanons-crisis-worsens",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/10/2022-10-30T103245Z_1902112473_RC2MBX9IHJ3L_RTRMADP_3_LEBANON-CRISIS-PRESIDENCY.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-10-30T12:03:28Z",
+            "content": "Lebanons President Michel Aoun has vacated the presidential palace with no successor in line to replace him as the divided country struggles to recover from a years-long financial crisis.\r\nAddressing… [+3050 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kyle Morris, Andrew Murray",
+            "title": "'Game changer': Could Elon Musk’s takeover of Twitter serve as this year's October surprise? - Fox News",
+            "description": "Elon Musk's recent takeover of Twitter sent shockwaves throughout the country, but political insiders offer varying takes on whether the move is an October surprise.",
+            "url": "https://www.foxnews.com/politics/game-changer-could-elon-musks-takeover-twitter-serve-years-october-surprise",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/elon-twitter.gif",
+            "publishedAt": "2022-10-30T12:00:49Z",
+            "content": "Billionaire industrialist Elon Musk's takeover of Twitter sent shockwaves throughout the media last week, igniting a larger conversation among voters about how his ownership of the influential platfo… [+6949 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Idris Mukhtar, Mohammed Tawfeeq, Heather Yamour",
+            "title": "Explosions near Somalia's education ministry kill 100 people - CNN",
+            "description": "At least 100 people were killed after two car bombs exploded near Somalia's education ministry in the capital Mogadishu on Saturday.",
+            "url": "https://www.cnn.com/2022/10/30/africa/explosions-somalia-education-ministry-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221029231736-02-somalia-attack-102922.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-30T11:49:00Z",
+            "content": "At least 100 people were killed after two car bombs exploded near Somalias education ministry in the capital Mogadishu on Saturday.\r\nMore than 300 others were wounded in the attack, said Somali Presi… [+2095 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caroline Thayer",
+            "title": "Henry Cavill to be replaced by Liam Hemsworth in ‘The Witcher' after 'Superman' news - Fox News",
+            "description": "Henry Cavill announced he is stepping away from his role in \"The Wticher,\" and will be replaced by Liam Hemsworth in an Instagram post.",
+            "url": "https://www.foxnews.com/entertainment/henry-cavill-replaced-liam-hemsworth-witcher-superman-news",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/henry-liam-copy.jpg",
+            "publishedAt": "2022-10-30T11:33:41Z",
+            "content": "Henry Cavill will no longer star in Netflix's \"The Witcher,\" the British actor announced on his Instagram Saturday.\r\nAustralian actor Liam Hemsworth has been tapped to replace him in season four of t… [+2513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "Powerball jackpot rises to $1 billion next week, as no one wins again - NPR",
+            "description": "On Saturday no one matched all six numbers and won the estimated $825 million grand prize. That means the next drawing Monday night will be for a massive $1 billion.",
+            "url": "https://www.npr.org/2022/10/30/1132657740/powerball-jackpot-rises-to-1-billion-next-week-monday",
+            "urlToImage": "https://media.npr.org/assets/img/2022/10/30/ap22301724287137_wide-e4830a03b063bf9584f50e765d7058325812db50-s1400-c100.jpg",
+            "publishedAt": "2022-10-30T11:18:39Z",
+            "content": "Customers pay for their groceries next to the lottery ticket display showing the jackpot amount for the Saturday, Oct. 29, drawing of the Powerball lottery at a market in Prospect, Pa., Friday, Oct. … [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Gloria Li, Ryan McMorrow",
+            "title": "Workers flee China's Covid restrictions at Foxconn's huge iPhone factory - Financial Times",
+            "description": "Authorities say company will go ‘all out’ to help employees return home",
+            "url": "https://www.ft.com/content/7df7443c-226b-455a-8424-cc6c4a15787a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fad96a3ef-9de2-4c32-850c-15c8f930c4f3.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-10-30T10:59:34Z",
+            "content": "Workers have been staging an exodus this weekend from the worlds largest iPhone factory, amid a coronavirus outbreak at the Foxconn plant in central China. \r\nThe huge complex in the city of Zhengzhou… [+3100 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "Russia-Ukraine updates: Moscow suspends UN-brokered grain export deal - DW (English)",
+            "description": "Russia blamed a drone attack in Crimea's Bay of Sevastopol for the halt, a day after the UN urged both sides to renew the grain deal. Meanwhile, the EU has already frozen €17 billion in Russian assets. DW has the latest.",
+            "url": "https://www.dw.com/en/russia-ukraine-updates-moscow-suspends-un-brokered-grain-export-deal/a-63592759",
+            "urlToImage": "https://static.dw.com/image/63437658_6.jpg",
+            "publishedAt": "2022-10-30T10:39:53Z",
+            "content": "Russia's Defense Ministry said Saturday that Moscow would suspend its implementation of a UN-brokered grain export deal that allowed for more than 9 million tons of grain to be exported from Ukraine.… [+8887 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Chelsea Janes",
+            "title": "Jose Altuve helps lift Astros to World Series Game 2 win - The Washington Post",
+            "description": "Houston stormed out to an early lead and never let Philadelphia back in the game, earning a 5-2 win to tie the series.",
+            "url": "https://www.washingtonpost.com/sports/2022/10/30/astros-win-game-2-world-series/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FZUC2NQFGRFD7KQF6BKZHPGM6Q.jpg&w=1440",
+            "publishedAt": "2022-10-30T09:02:00Z",
+            "content": "Comment on this story\r\nHOUSTON When whatever tortured souls spend their futures memorializing baseball history look back at this era of Houston Astros dominance, they will be unable to do so without … [+6794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Victim in Kiryat Arba shooting named as Ronen Hanania; wounded son recounts horror - The Times of Israel",
+            "description": "Deceased to be laid to rest Sunday afternoon in Jerusalem; son says he he was 'lucky to witness his final moments'",
+            "url": "https://www.timesofisrael.com/victim-in-kiryat-arba-shooting-named-as-ronen-hanania-wounded-son-recounts-horror/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/10/download_20221030_101156-e1667118706341-1024x640.jpg",
+            "publishedAt": "2022-10-30T08:55:23Z",
+            "content": "The man who was shot dead in a terror attack Saturday night near Kiryat Arba was identified on Sunday morning as Ronen Hanania, a resident of the West Bank settlement.\r\nHanania’s son, who was wounded… [+2881 chars]"
+        }
+    ]
+}
